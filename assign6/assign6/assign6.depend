@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1496373801 source:c:\users\kusda_000\desktop\oop\assign6\main.cpp
+	<iostream>
+	"GenericSet.h"
+
+1496393394 c:\users\kusda_000\desktop\oop\assign6\genericset.h
+	<iostream>
+
