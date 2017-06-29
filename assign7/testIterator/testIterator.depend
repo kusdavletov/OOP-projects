@@ -1,0 +1,20 @@
+# depslib dependency file v1.0
+1497321444 source:c:\users\kusda_000\desktop\oop\assign7\iterator.cpp
+	"Iterator.h"
+	<iostream>
+
+1497115389 c:\users\kusda_000\desktop\oop\assign7\iterator.h
+	<string>
+	"Node.h"
+
+1496664471 c:\users\kusda_000\desktop\oop\assign7\node.h
+	<string>
+
+1497326941 source:c:\users\kusda_000\desktop\oop\assign7\testiterator.cpp
+	<iostream>
+	"Iterator.h"
+
+1497281679 source:c:\users\kusda_000\desktop\oop\assign7\node.cpp
+	"Node.h"
+	<iostream>
+
