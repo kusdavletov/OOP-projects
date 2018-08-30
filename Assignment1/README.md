@@ -1,0 +1,2 @@
+## Description
+The tray of the files was broken into fragments. All files on the tray were identical, all of them broke into exactly two fragments, and all file fragments were found. Unfortunately, the files didn’t all break in the same place, and the fragments were completely mixed up by their fall to the floor. The program determines the bit pattern the files contained.
